@@ -1,0 +1,29 @@
+body{
+    background-color: saddlebrown;
+}
+
+@media only screen and (max-width: 500px) {
+    body{
+        background-color: blue;
+    }
+
+
+
+}
+
+/*@media only screen and (max-width: 700px) {
+    body{
+        background-color: yellow;
+    }*/
+
+
+
+
+
+@media only screen and (orientation:landscape) and (max-width:768px){
+
+    body{
+
+        background-color: purple;
+    }
+}
